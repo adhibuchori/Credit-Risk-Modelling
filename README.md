@@ -290,6 +290,7 @@ Berdasarkan hasil visualisasi kurva ROC (Receiver Operating Characteristic) dan 
 
 ## 9. Kesimpulan
 
+### 9.1. Kesimpulan
 Dengan demikian, dapat disimpulkan bahwa model risiko kredit cenderung memiliki kinerja yang lebih baik dalam mengidentifikasi pinjaman yang baik daripada yang buruk. Kecenderungan ini dipengaruhi oleh ketidakseimbangan antara kelas dalam data yang digunakan untuk pelatihan model. Selain itu, Skor AUC menunjukkan bahwa model memiliki kemampuan yang cukup baik dalam menilai risiko kredit. Dengan meningkatkan skor AUC dan mempertimbangkan metrik lain, lending company (LC) dapat mengembangkan model yang lebih akurat dan sesuai dengan kebutuhan bisnis.
 
 ### 9.2. Saran
