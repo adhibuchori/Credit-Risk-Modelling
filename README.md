@@ -240,7 +240,7 @@ Berikut merupakan hasil visualisasi perbandingan skor akurasi untuk setiap model
 
 <div align="center">
   <img src="https://drive.google.com/uc?id=1EaWVOTkirhGWrJ2djMmdja9NWsXlhiZY" alt="Accuracy Score">
-  <p>Gambar 7.1. Hasil Visuailsasi Perbandingan Skor Akurasi untuk Setiap Model.</p>
+  <p>Gambar 7.1. Hasil Visualisasi Perbandingan Skor Akurasi untuk Setiap Model.</p>
 </div>
 
 Dengan demikian, dapat disimpulkan bahwa mayoritas algoritma berhasil mencapai tingkat akurasi sebesar 81%, dengan pencapaian tertinggi terdapat pada algoritma AdaBoost yang mencapai 81.59%. Hal ini menunjukkan bahwa mayoritas dari model-model tersebut mampu mengklasifikasikan dengan benar sekitar 81% kasus pinjaman.
@@ -255,7 +255,7 @@ Berikut merupakan hasil visualisasi Confusion Matrix untuk setiap algoritma:
 
 <div align="center">
   <img src="https://drive.google.com/uc?id=1izg_ARpdFkXehMiMSUmzw4cq2RCj7q2g" alt="Accuracy Score">
-  <p>Gambar 8.1. Hasil Visuailsasi Confusion Matrix untuk Setiap Model.</p>
+  <p>Gambar 8.1. Hasil Visualisasi Confusion Matrix untuk Setiap Model.</p>
 </div>
 
 #### 8.1.1. Classification Report
